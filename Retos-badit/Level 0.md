@@ -7,7 +7,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 user-bandit0
 password-bandit0
 ## Solucion
-
+```bash
 ──(kali㉿kali)-[~/Desktop]
 └─$ ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
@@ -105,6 +105,7 @@ discord or IRC.
   Enjoy your stay!
 
 bandit0@bandit:~$ 
+```
 
 ## Notas adicionales
 
