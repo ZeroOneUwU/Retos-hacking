@@ -24,4 +24,8 @@ bandit9@bandit:~$
 
 string -> Extrae las cadenas de un archivo binario
 
+El comando strings busca cadenas legibles por humanos en archivos. Específicamente, imprime secuencias de caracteres imprimibles. Su uso principal es para archivos no imprimibles como volcados hexadecimales o ejecutables.
+
 ## Referencias 
+
+https://francisconi.org/linux/comandos/strings
