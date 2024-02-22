@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-badit/Level 15 -> Level 16.md",
+                "file": "Retos-badit/Level 21 -> Level 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-badit/Level 15 -> Level 16.md",
+                "file": "Retos-badit/Level 21 -> Level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-badit/Level 15 -> Level 16.md",
+                "file": "Retos-badit/Level 21 -> Level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-badit/Level 15 -> Level 16.md"
+                "file": "Retos-badit/Level 21 -> Level 22.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
+    "Retos-badit/Level 20 -> Level 21.md",
+    "Retos-badit/Level 19 -> Level 20.md",
+    "Retos-badit/Level 18 -> Level 19.md",
+    "Retos-badit/Level 17 -> Level 18.md",
+    "Retos-badit/Level 21 -> Level 22.md",
+    "Retos-badit/Level 16 -> Level 17.md",
+    "Retos-badit/Level 15 -> Level 16.md",
     "Retos-badit/Level 14 -> Level 15.md",
     "Retos-badit/Level 13 -> Level 14.md",
     "Retos-badit/Level 12 -> Level 13.md",
-    "Retos-badit/Level 15 -> Level 16.md",
     "Retos-badit/Plantilla.md",
     "Retos-badit/Level 11 -> Level 12.md",
     "Retos-badit/Level 10 -> Level 11.md",
@@ -168,7 +174,6 @@
     "Retos-badit/Level 0.md",
     "Welcome.md",
     "README.md",
-    "Sin título.md",
     "Retos-badit"
   ]
 }
