@@ -29,6 +29,8 @@ export TERM=linux
 exec more ~/text.txt
 exit 0
 
+bandit25@bandit:~$ ssh bandit26@localhost -i bandit26.sshkey
+
 
   _                     _ _ _   ___   __  
  | |                   | (_) | |__ \ / /  
