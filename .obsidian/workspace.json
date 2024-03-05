@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF_Examen1_P3/07-plumbing.md",
+                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF_Examen1_P3/07-plumbing.md",
+                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF_Examen1_P3/07-plumbing.md",
+                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF_Examen1_P3/07-plumbing.md"
+                "file": "PicoCTF-Web2/JaWT Scratchpad.md"
               }
             }
           }
@@ -146,8 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f715cf39f8a955c3",
+  "active": "63705b319b995280",
   "lastOpenFiles": [
+    "PicoCTF-Web2/Irish-Name-Repo 3.md",
+    "PicoCTF-Web2/Irish-Name-Repo 1.md",
+    "PicoCTF-Web2/Irish-Name-Repo 2.md",
+    "PicoCTF-Web2/JaWT Scratchpad.md",
+    "PicoCTF-Exam1-P3/04-PW Crack 3.md",
+    "PicoCTF-Exam1-P3/03-PW Crack 2.md",
+    "PicoCTF-Exam1-P3/05-runme.py.md",
+    "PicoCTF-Exam1-P3/06-Based.md",
+    "PicoCTF-Web/Insp3ct0r.md",
+    "PicoCTF-Web/Picobrowser.md",
+    "PicoCTF-Web2",
+    "Sin título.md",
     "PicoCTF_Examen1_P3/06-Based.md",
     "PicoCTF_Examen1_P3/05-runme.py.md",
     "PicoCTF_Examen1_P3/04-PW Crack 3.md",
@@ -163,19 +175,8 @@
     "PicoCTF_Examen1_P2/01-2Warm.md",
     "PicoCTF_Examen1_P2/04-convertme.py.md",
     "PicoCTF_Examen1_P2/03-Codebook.md",
-    "PicoCTF_Examen1_P2/02-Bases.md",
-    "PicoCTF_Examen1_P1/08-Warmed Up.md",
-    "PicoCTF_Examen1_P1/07-Lets Warm Up.md",
-    "PicoCTF_Examen1_P1/06-Magikarp Ground Mission.md",
-    "PicoCTF_Examen1_P1/05-Tab, Tab, Attack.md",
-    "PicoCTF_Examen1_P1/04-Static ain't always noise.md",
-    "PicoCTF_Examen1_P1/02-Wave a flag.md",
-    "PicoCTF_Examen1_P1/01-Obendient cat.md",
-    "PicoCTF_Examen1_P1/03-Nice netcat.md",
     "PicoCTF_Examen1_P3",
     "PicoCTF_Examen1_P2",
-    "PicoCTF_Examen1_P1/Sin título.md",
-    "PicoCTF_Web/Client-side-again.md",
     "PicoCTF_Web",
     "PicoCTF_Examen1_P1",
     "Retos-badit"
