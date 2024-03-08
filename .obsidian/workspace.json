@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
+                "file": "PicoCTF-Web3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
+                "file": "PicoCTF-Web3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Web2/JaWT Scratchpad.md",
+                "file": "PicoCTF-Web3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Web2/JaWT Scratchpad.md"
+                "file": "PicoCTF-Web3/Scavenger Hunt.md"
               }
             }
           }
@@ -146,15 +146,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "63705b319b995280",
+  "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
+    "PicoCTF-Web3/Cookies.md",
+    "PicoCTF-Web3/GET aHEAD.md",
+    "PicoCTF-Web3/Scavenger Hunt.md",
+    "PicoCTF-Web3/GET aHEAD 1 1.md",
+    "PicoCTF-Exam1-P1/02-Wave a flag.md",
+    "PicoCTF-Exam1-P2/02-Bases.md",
+    "PicoCTF-Exam1-P3/02-PW Crack 1.md",
+    "PicoCTF-Exam1-P3/05-runme.py.md",
+    "PicoCTF-Web/Plantilla.md",
+    "PicoCTF-Web2/JaWT Scratchpad.md",
+    "PicoCTF-Web3",
     "PicoCTF-Web2/Irish-Name-Repo 3.md",
     "PicoCTF-Web2/Irish-Name-Repo 1.md",
     "PicoCTF-Web2/Irish-Name-Repo 2.md",
-    "PicoCTF-Web2/JaWT Scratchpad.md",
     "PicoCTF-Exam1-P3/04-PW Crack 3.md",
     "PicoCTF-Exam1-P3/03-PW Crack 2.md",
-    "PicoCTF-Exam1-P3/05-runme.py.md",
     "PicoCTF-Exam1-P3/06-Based.md",
     "PicoCTF-Web/Insp3ct0r.md",
     "PicoCTF-Web/Picobrowser.md",
@@ -167,14 +176,6 @@
     "PicoCTF_Examen1_P3/02-PW Crack 1.md",
     "PicoCTF_Examen1_P3/01-fixme2.py.md",
     "PicoCTF_Examen1_P3/07-plumbing.md",
-    "PicoCTF_Web/Plantilla.md",
-    "PicoCTF_Examen1_P2/08-What's a net cat?.md",
-    "PicoCTF_Examen1_P2/07-strings it.md",
-    "PicoCTF_Examen1_P2/06-fixme1.py.md",
-    "PicoCTF_Examen1_P2/05-First Grep.md",
-    "PicoCTF_Examen1_P2/01-2Warm.md",
-    "PicoCTF_Examen1_P2/04-convertme.py.md",
-    "PicoCTF_Examen1_P2/03-Codebook.md",
     "PicoCTF_Examen1_P3",
     "PicoCTF_Examen1_P2",
     "PicoCTF_Web",
