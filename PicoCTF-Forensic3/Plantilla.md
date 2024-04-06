@@ -1,5 +1,0 @@
-## Descripcion 
-
-## Solucion
-
-## Notas adicionales

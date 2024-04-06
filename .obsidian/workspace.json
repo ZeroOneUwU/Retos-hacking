@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Forensic3/WebNet1.md",
+                "file": "PicoCTF-Exam2-P2/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cf5764fbc7b4dbe9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Forensic3/WebNet1.md",
+                "file": "PicoCTF-Exam2-P2/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Forensic3/WebNet1.md",
+                "file": "PicoCTF-Exam2-P2/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Forensic3/WebNet1.md"
+                "file": "PicoCTF-Exam2-P2/St3g0.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
-    "PicoCTF-Forensic3/WebNet0.md",
-    "PicoCTF-Forensic3/tunn3l v1s10n.md",
-    "PicoCTF-Forensic3/Matryoshka doll.md",
-    "PicoCTF-Forensic3/MacroHard WeakEdge.md",
-    "PicoCTF-Forensic3/Plantilla.md",
-    "PicoCTF-Web2/Irish-Name-Repo 3.md",
-    "PicoCTF-Forensic3/WebNet1.md",
-    "PicoCTF-Forensic2/Shark on wire 2.md",
+    "PicoCTF-Exam2-P2/Redaction gone wrong.md",
+    "PicoCTF-Exam2-P2/Packets Primer.md",
+    "PicoCTF-Exam2-P2/Lookey here.md",
+    "PicoCTF-Exam2-P2/Enhance!.md",
+    "PicoCTF-Exam2-P2/Wireshark doo dooo do doo....md",
+    "PicoCTF-Exam2-P2/Information.md",
+    "PicoCTF-Exam2-P2/St3g0.md",
+    "PicoCTF-Exam2-P1/SQL Direct.md",
+    "PicoCTF-Exam2-P1/Secrets.md",
+    "PicoCTF-Exam2-P1/Roboto Sans.md",
+    "PicoCTF-Exam2-P1/Power Cookie.md",
+    "PicoCTF-Exam2-P1/Forbidden Paths.md",
+    "PicoCTF-Exam2-P1/Search source.md",
+    "PicoCTF-Exam2-P1/Local Authority.md",
+    "PicoCTF-Exam2-P1/Inspect HTML.md",
+    "PicoCTF-Exam2-P1/Includes.md",
+    "Plantilla.md",
+    "Welcome.md",
+    "PicoCTF-Exam2-P2",
+    "PicoCTF-Exam2-P1",
+    "Sin título.md",
+    "README.md",
+    "Retos-badit/Level 29 -> Level 30.md",
+    "Pico_CTF/Blame Game.md",
+    "Retos-badit/Level 30 -> Level 31.md",
+    "Pico_CTF/Binhexa.md",
+    "PicoCTF-Exam1-P2/06-fixme1.py.md",
+    "PicoCTF-Exam1-P2/05-First Grep.md",
+    "Pico_CTF",
     "PicoCTF-Forensic3",
-    "PicoCTF-Forensic2/like1000.md",
-    "PicoCTF-Forensic2/c0rrupt.md",
-    "PicoCTF-Forensic2/WhitePages.md",
-    "PicoCTF-Forensic2/m00nwalk.md",
     "PicoCTF-Forensic2",
-    "PicoCTF-Forensic/What Lies Within.md",
-    "PicoCTF-Forensic/So Meta.md",
-    "PicoCTF-Forensic/Shark on wire 1.md",
-    "PicoCTF-Forensic/Glory of the Garden.md",
-    "PicoCTF-Forensic/Extensions.md",
-    "PicoCTF-Web3/Scavenger Hunt.md",
     "PicoCTF-Forensic",
-    "PicoCTF-Web3/Cookies.md",
-    "PicoCTF-Web3/GET aHEAD.md",
-    "PicoCTF-Web3/GET aHEAD 1 1.md",
-    "PicoCTF-Exam1-P1/02-Wave a flag.md",
-    "PicoCTF-Exam1-P2/02-Bases.md",
-    "PicoCTF-Exam1-P3/02-PW Crack 1.md",
-    "PicoCTF-Exam1-P3/05-runme.py.md",
-    "PicoCTF-Web2/JaWT Scratchpad.md",
     "PicoCTF-Web3",
     "PicoCTF-Web2",
     "PicoCTF_Examen1_P3",
-    "PicoCTF_Examen1_P2",
-    "PicoCTF_Web",
-    "PicoCTF_Examen1_P1",
-    "Retos-badit"
+    "PicoCTF_Examen1_P2"
   ]
 }
