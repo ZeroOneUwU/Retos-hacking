@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Exam2-P2/St3g0.md",
+                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Exam2-P2/St3g0.md",
+                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Exam2-P2/St3g0.md",
+                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Exam2-P2/St3g0.md"
+                "file": "PicoCTF-Retos Crypto/waves over lambda.md"
               }
             }
           }
@@ -148,13 +148,22 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
+    "PicoCTF-Retos Crypto/The Numbers.md",
+    "PicoCTF-Retos Crypto/waves over lambda.md",
+    "PicoCTF-Retos Crypto/Tapping.md",
+    "PicoCTF-Retos Crypto/la cifra de.md",
+    "PicoCTF-Retos Crypto/Easy1.md",
+    "PicoCTF-Retos Crypto/caesar.md",
+    "PicoCTF-Retos Crypto/13.md",
+    "Plantilla.md",
+    "PicoCTF-Exam2-P2/St3g0.md",
+    "PicoCTF-Retos Crypto",
     "PicoCTF-Exam2-P2/Redaction gone wrong.md",
     "PicoCTF-Exam2-P2/Packets Primer.md",
     "PicoCTF-Exam2-P2/Lookey here.md",
     "PicoCTF-Exam2-P2/Enhance!.md",
     "PicoCTF-Exam2-P2/Wireshark doo dooo do doo....md",
     "PicoCTF-Exam2-P2/Information.md",
-    "PicoCTF-Exam2-P2/St3g0.md",
     "PicoCTF-Exam2-P1/SQL Direct.md",
     "PicoCTF-Exam2-P1/Secrets.md",
     "PicoCTF-Exam2-P1/Roboto Sans.md",
@@ -164,25 +173,16 @@
     "PicoCTF-Exam2-P1/Local Authority.md",
     "PicoCTF-Exam2-P1/Inspect HTML.md",
     "PicoCTF-Exam2-P1/Includes.md",
-    "Plantilla.md",
     "Welcome.md",
     "PicoCTF-Exam2-P2",
     "PicoCTF-Exam2-P1",
     "Sin título.md",
-    "README.md",
-    "Retos-badit/Level 29 -> Level 30.md",
-    "Pico_CTF/Blame Game.md",
-    "Retos-badit/Level 30 -> Level 31.md",
-    "Pico_CTF/Binhexa.md",
-    "PicoCTF-Exam1-P2/06-fixme1.py.md",
-    "PicoCTF-Exam1-P2/05-First Grep.md",
     "Pico_CTF",
     "PicoCTF-Forensic3",
     "PicoCTF-Forensic2",
     "PicoCTF-Forensic",
     "PicoCTF-Web3",
     "PicoCTF-Web2",
-    "PicoCTF_Examen1_P3",
-    "PicoCTF_Examen1_P2"
+    "PicoCTF_Examen1_P3"
   ]
 }
