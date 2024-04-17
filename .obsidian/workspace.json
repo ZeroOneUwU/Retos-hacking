@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
+                "file": "PicoCTF-Crypto2/b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
+                "file": "PicoCTF-Crypto2/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Retos Crypto/waves over lambda.md",
+                "file": "PicoCTF-Crypto2/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Retos Crypto/waves over lambda.md"
+                "file": "PicoCTF-Crypto2/b00tl3gRSA2.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
-    "PicoCTF-Retos Crypto/The Numbers.md",
+    "PicoCTF-Crypto2/rsa-pop-quiz.md",
+    "PicoCTF-Crypto2/miniRSA.md",
+    "PicoCTF-Crypto2/b00tl3gRSA2.md",
+    "Plantilla.md",
     "PicoCTF-Retos Crypto/waves over lambda.md",
+    "PicoCTF-Crypto2",
+    "PicoCTF-Retos Crypto/Sin título",
+    "PicoCTF-Retos Crypto/The Numbers.md",
     "PicoCTF-Retos Crypto/Tapping.md",
     "PicoCTF-Retos Crypto/la cifra de.md",
     "PicoCTF-Retos Crypto/Easy1.md",
     "PicoCTF-Retos Crypto/caesar.md",
     "PicoCTF-Retos Crypto/13.md",
-    "Plantilla.md",
     "PicoCTF-Exam2-P2/St3g0.md",
     "PicoCTF-Retos Crypto",
     "PicoCTF-Exam2-P2/Redaction gone wrong.md",
@@ -172,17 +177,12 @@
     "PicoCTF-Exam2-P1/Search source.md",
     "PicoCTF-Exam2-P1/Local Authority.md",
     "PicoCTF-Exam2-P1/Inspect HTML.md",
-    "PicoCTF-Exam2-P1/Includes.md",
-    "Welcome.md",
     "PicoCTF-Exam2-P2",
     "PicoCTF-Exam2-P1",
-    "Sin título.md",
     "Pico_CTF",
     "PicoCTF-Forensic3",
     "PicoCTF-Forensic2",
     "PicoCTF-Forensic",
-    "PicoCTF-Web3",
-    "PicoCTF-Web2",
-    "PicoCTF_Examen1_P3"
+    "PicoCTF-Web3"
   ]
 }
