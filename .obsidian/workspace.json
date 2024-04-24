@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Crypto3/Pixelated.md",
+                "file": "PicoCTF-Retos Reversing/vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Crypto3/Pixelated.md",
+                "file": "PicoCTF-Retos Reversing/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Crypto3/Pixelated.md",
+                "file": "PicoCTF-Retos Reversing/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Crypto3/Pixelated.md"
+                "file": "PicoCTF-Retos Reversing/vault-door-4.md"
               }
             }
           }
@@ -148,16 +148,22 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
-    "PicoCTF-Crypto3/ReadMyCert.md",
-    "PicoCTF-Crypto3/Pixelated.md",
-    "PicoCTF-Crypto3/HideToSee.md",
+    "PicoCTF-Retos Reversing/vault-door-3.md",
+    "PicoCTF-Retos Reversing/vault-door-4.md",
+    "PicoCTF-Retos Reversing/vault-door-5.md",
+    "PicoCTF-Retos Reversing/vault-door-1.md",
+    "PicoCTF-Retos Reversing/vault-door-training.md",
+    "Plantilla.md",
     "PicoCTF-Crypto3/basic-mod1.md",
+    "PicoCTF-Retos Reversing",
+    "PicoCTF-Crypto3/Pixelated.md",
+    "PicoCTF-Crypto3/ReadMyCert.md",
+    "PicoCTF-Crypto3/HideToSee.md",
     "PicoCTF-Crypto3/Mind your Ps and Qs.md",
     "PicoCTF-Crypto2/b00tl3gRSA2.md",
     "PicoCTF-Crypto3",
     "PicoCTF-Crypto2/rsa-pop-quiz.md",
     "PicoCTF-Crypto2/miniRSA.md",
-    "Plantilla.md",
     "PicoCTF-Retos Crypto/waves over lambda.md",
     "PicoCTF-Crypto2",
     "PicoCTF-Retos Crypto/Sin título",
@@ -173,16 +179,10 @@
     "PicoCTF-Exam2-P2/Packets Primer.md",
     "PicoCTF-Exam2-P2/Lookey here.md",
     "PicoCTF-Exam2-P2/Enhance!.md",
-    "PicoCTF-Exam2-P2/Wireshark doo dooo do doo....md",
-    "PicoCTF-Exam2-P2/Information.md",
-    "PicoCTF-Exam2-P1/SQL Direct.md",
-    "PicoCTF-Exam2-P1/Secrets.md",
-    "PicoCTF-Exam2-P1/Roboto Sans.md",
     "PicoCTF-Exam2-P2",
     "PicoCTF-Exam2-P1",
     "Pico_CTF",
     "PicoCTF-Forensic3",
-    "PicoCTF-Forensic2",
-    "PicoCTF-Forensic"
+    "PicoCTF-Forensic2"
   ]
 }
