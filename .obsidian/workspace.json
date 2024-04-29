@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF-Retos Reversing2/asm2.md",
+                "file": "PicoCTF-Retos Reversing3/Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF-Retos Reversing2/asm2.md",
+                "file": "PicoCTF-Retos Reversing3/Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF-Retos Reversing2/asm2.md",
+                "file": "PicoCTF-Retos Reversing3/Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF-Retos Reversing2/asm2.md"
+                "file": "PicoCTF-Retos Reversing3/Need For Speed.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "f715cf39f8a955c3",
   "lastOpenFiles": [
-    "PicoCTF-Retos Reversing2/asm3.md",
-    "PicoCTF-Retos Reversing2/asm2.md",
-    "PicoCTF-Retos Reversing2/asm1.md",
+    "need-for-speed",
+    "PicoCTF-Retos Reversing3/reverse_cipher.md",
+    "PicoCTF-Retos Reversing3/Safe Opener 2.md",
+    "PicoCTF-Retos Reversing3/GDB Test Drive.md",
+    "PicoCTF-Retos Reversing3/Need For Speed.md",
     "Plantilla.md",
+    "PicoCTF-Retos Reversing2/asm2.md",
+    "PicoCTF-Retos Reversing3",
+    "PicoCTF-Retos Reversing2/asm3.md",
+    "PicoCTF-Retos Reversing2/asm1.md",
     "PicoCTF-Retos Reversing/vault-door-4.md",
     "PicoCTF-Retos Reversing2",
     "PicoCTF-Retos Reversing/vault-door-3.md",
@@ -174,15 +180,9 @@
     "PicoCTF-Retos Crypto/The Numbers.md",
     "PicoCTF-Retos Crypto/Tapping.md",
     "PicoCTF-Retos Crypto/la cifra de.md",
-    "PicoCTF-Retos Crypto/Easy1.md",
-    "PicoCTF-Retos Crypto/caesar.md",
-    "PicoCTF-Retos Crypto/13.md",
-    "PicoCTF-Exam2-P2/St3g0.md",
     "PicoCTF-Retos Crypto",
-    "PicoCTF-Exam2-P2/Redaction gone wrong.md",
     "PicoCTF-Exam2-P2",
     "PicoCTF-Exam2-P1",
-    "Pico_CTF",
-    "PicoCTF-Forensic3"
+    "Pico_CTF"
   ]
 }
